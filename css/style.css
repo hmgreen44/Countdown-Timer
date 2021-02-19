@@ -1,23 +1,25 @@
  body{
     font-family: Helvetica;
-    background-image: url(https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80);
+    background-image: url(https://wallpaperscute.com/wp-content/uploads/2019/03/Wallpaper-Spring-Season.jpg);
     background-size: cover;
-    width: 100%;
-    height: auto;
+    background-repeat: no-repeat;
+    
 
 }
   
-.container{
+.container {
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
     text-align: center;
     font-family: Helvetica;
     padding: 12px;
     border: 2px solid white;
     color: white; 
-    font-size: 50px;
+    font-size: 60px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    min-width:1000px;
+    height:auto;
     
     
 }
@@ -25,7 +27,6 @@
     font-family: Helvetica;
     font-size: 140px;
     color: white;
-    
 
 }
 .header{
@@ -33,10 +34,6 @@
     font-size: 90px;
     color: white;
     text-align: center;
-
-
+    padding-bottom: 20px;
+    
 }
-
-
-  
-  
