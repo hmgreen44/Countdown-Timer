@@ -1,6 +1,10 @@
  body{
-    font-family: Arial;
-    background: #11574A;
+    font-family: Helvetica;
+    background-image: url(https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80);
+    background-size: cover;
+    width: 100%;
+    height: auto;
+
 }
   
 .container{
@@ -9,17 +13,28 @@
     left: 50%;
     transform: translate(-50%,-50%);
     text-align: center;
-    font-family: Arial;
+    font-family: Helvetica;
     padding: 12px;
-    background-color: #FFF;
-    border: 2px solid black;
-   
-    box-shadow: 0 0 5px 3px #999;   
+    border: 2px solid white;
+    color: white; 
+    font-size: 50px;
+    
     
 }
 .info{
-    font-family: Arial;
+    font-family: Helvetica;
     font-size: 140px;
+    color: white;
+    
+
+}
+.header{
+    font-family: Helvetica;
+    font-size: 90px;
+    color: white;
+    text-align: center;
+
+
 }
 
 
